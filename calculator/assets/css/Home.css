@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background-color: rgb(117, 118, 118);
+  margin-top: -0.6%;
+  margin-bottom: -10px;
+  margin-left: -1%;
+  margin-right: -1%;
+  height: 99vh;
+}
+#heading {
+  grid-column: 1 / -1;
+  color: rgb(0, 0, 0);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
